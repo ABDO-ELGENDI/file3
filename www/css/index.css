@@ -1,0 +1,17 @@
+.nv{
+    background-color: rgb(218, 29, 29);
+    color:white;
+}
+.fm{
+    margin: 10px;
+}
+.btn-success{
+    margin-top: 20px;
+    background-color: rgb(218, 29, 29) !important;
+    border-color: rgb(218, 29, 29) !important;
+}
+.discription{
+    color: rgb(218, 29, 29);
+    text-align: center;
+    margin-top: 30px;
+}
